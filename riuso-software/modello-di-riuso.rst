@@ -21,7 +21,7 @@ del presente documento.
    l’acquisizione della titolarità di tutti i diritti di proprietà
    intellettuale e industriale sul software commissionato
    (`Titolarità <../premessa/titolarita.html>`__).
-3. Durante il corso della realizzazione del software e/o al termine
+3. Nel corso della realizzazione del software e/o al termine
    della stessa, l’amministrazione rilascia il codice sorgente del
    proprio software sotto una **licenza aperta**, in una piattaforma che
    rispetta i requisiti identificati in queste linee guida (`Scelta di
