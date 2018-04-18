@@ -61,10 +61,10 @@ software stesso, oltre all’accettazione della licenza Open Source che si
 perfeziona con il semplice download. Inoltre, il software è disponibile
 online e non è quindi necessaria alcuna richiesta di accesso.
 
-È importante però considerare che il software potrebbe non essere
-“pronto all’uso”. L’amministrazione potrebbe quindi avere necessità di
-un intervento tecnico per installare il software, adattarlo alle proprie
-esigenze, formare il personale che dovrà usarlo, avere a disposizione
+Se il software non fosse
+“pronto all’uso”, l’amministrazione potrebbe avere necessità di
+un intervento tecnico per installarlo, adattarlo alle proprie
+esigenze, formare il personale che dovrà usarlo, o ricevere 
 supporto e manutenzione. Per tutti questi interventi, l’amministrazione
 **può usare proprie risorse o forniture**, poiché nessun vincolo da
 questo punto di vista è imposto all’amministrazione che ha realizzato il
