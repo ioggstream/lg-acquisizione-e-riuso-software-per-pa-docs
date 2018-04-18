@@ -56,8 +56,8 @@ del presente documento.
 
 Il modello del riuso tramite software Open Source consente quindi di
 trovare un software, valutarlo e personalizzarlo **senza stipulare
-alcuna convenzione** con l’amministrazione che ha messo a riuso il
-software stesso, oltre all’accettazione della licenza Open Source che si
+alcuna convenzione** con l’amministrazione che lo ha messo a riuso,
+ se non l’accettazione della licenza Open Source che si
 perfeziona con il semplice download. Inoltre, il software è disponibile
 online e non è quindi necessaria alcuna richiesta di accesso.
 
